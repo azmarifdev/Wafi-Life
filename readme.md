@@ -1,1 +1,0 @@
-# Wafi Life MERN Project
