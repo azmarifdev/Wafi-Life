@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>welcome wafi life</h1>
+        <h1>Welcome wafi life</h1>
       </div>
        
     </>
