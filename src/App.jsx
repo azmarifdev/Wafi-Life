@@ -1,11 +1,12 @@
 import './App.css'
+import Shop from './components/Shop/Shop'
 
 function App() {
   
   return (
     <>
       <div>
-        <h1>Welcome wafi life</h1>
+        <Shop/>
       </div>
        
     </>
