@@ -1,12 +1,15 @@
 .shop-component {
     margin-top: 100px;
     display: grid;
-    grid-template-columns: 4fr 1fr
+    grid-template-columns: 4fr 1fr;
 }
 
 .book-component {
-    background-color: rgb(21, 255, 0);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
 }
+
 .price-component {
     background-color: aqua;
 }
